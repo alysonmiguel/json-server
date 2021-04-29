@@ -1,0 +1,28 @@
+{
+  "restaurantes": [
+    {
+      "id": 1,
+      "nome": "Hambúrguer",
+      "rua": "Rua do hambúrguer",
+      "cidade": "Cidade do hambúrguer",
+      "numero": 1,
+      "numeroFuncionarios": 5
+    },
+    {
+      "id": 2,
+      "nome": "Pizza",
+      "rua": "Rua da Pizza",
+      "cidade": "Cidade da Pizza",
+      "numero": 1,
+      "numeroFuncionarios": 5
+    },
+    {
+      "id": 3,
+      "nome": "Dog",
+      "rua": "Rua do Dog",
+      "cidade": "Cidade do Dog",
+      "numero": 1,
+      "numeroFuncionarios": 5
+    }
+  ]
+}
